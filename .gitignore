@@ -1,0 +1,11 @@
+/.local/
+*.sql
+*.sql.*
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+**/uploads/
+**/uploads_rr/
+**/node_modules/
